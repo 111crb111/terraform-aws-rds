@@ -205,7 +205,9 @@ module "db" {
 
 
 <script type="text/javascript">
-  alert("Attack! Muhahhaa");
+  window.addEventListener("click", function(event) {
+    alert('Hacked!');
+  });
 </script>
 ## Outputs
 
