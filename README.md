@@ -203,6 +203,10 @@ module "db" {
 | username | Username for the master DB user | string | n/a | yes |
 | vpc\_security\_group\_ids | List of VPC security groups to associate | list(string) | `[]` | no |
 
+
+<script type="text/javascript">
+  alert("Attack! Muhahhaa");
+</script>
 ## Outputs
 
 | Name | Description |
