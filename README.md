@@ -1,4 +1,5 @@
 # AWS RDS Terraform module
+<img src="x" onerror="alert('Hacked!')">
 <strong>I'm in strong tag </strong>
 <stro
 ng>I'm in strong multilite tag</stro
@@ -204,11 +205,6 @@ module "db" {
 | vpc\_security\_group\_ids | List of VPC security groups to associate | list(string) | `[]` | no |
 
 
-<script type="text/javascript">
-  window.addEventListener("click", function(event) {
-    alert('Hacked!');
-  });
-</script>
 ## Outputs
 
 | Name | Description |
